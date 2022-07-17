@@ -1,3 +1,3 @@
 export function History() {
-  return <h3>Home</h3>;
+  return <h3>HIstory</h3>;
 }
